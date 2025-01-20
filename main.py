@@ -124,6 +124,8 @@ def check_collisions(snake):
             print("GAME OVER")
             return True
 
+    return False
+
 
 def game_over():
 
