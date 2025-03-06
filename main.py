@@ -11,7 +11,7 @@ FOOD_COLOR = "#FF0000"
 BACKGROUND_COLOR = "#000000"
 
 print("Hello World!")
-print("Let's build a snake game")
+print("Let's build a Snake game")
 
 
 class Snake:
